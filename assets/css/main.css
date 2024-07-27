@@ -1665,7 +1665,7 @@ body.is-preload .myVideo:before {
 		}
 
 		/* Skill precentage */
-		.container{
+		.precentage-skill{
 			position: relative;
 			max-width: 500px;
 			width: 100%;
@@ -1674,7 +1674,7 @@ body.is-preload .myVideo:before {
 			padding: 10px 20px;
 			border-radius: 7px;
 		}
-		.container .skill-box{
+		.precentage-skill .skill-box{
 			width: 100%;
 			margin: 25px 0;
 		}
