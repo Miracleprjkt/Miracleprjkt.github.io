@@ -183,6 +183,15 @@ input, select, textarea {
 		letter-spacing: 0.2rem;
 	}
 
+	h4 a {
+		margin-right: 20px;
+	}
+	
+	h4 a:last-child {
+		margin-right: 0;
+	}
+	
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
